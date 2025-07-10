@@ -1,0 +1,8 @@
+Starting where we left off with 03
+
+npm init -y         //initialize npm for our project and accept all defaults
+npm i date-fns      //install data functions package
+npm i uuid          //install uuid package
+npm i nodemon -D    //install node as a dev dependency
+
+npm run dev         //launch nodemon and our index.js in dev mode, see package.json

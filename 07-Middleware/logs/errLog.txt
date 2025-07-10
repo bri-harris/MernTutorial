@@ -1,0 +1,2 @@
+20250708	16:31:20	be0856ad-e9e6-4938-89e1-f84c65ccf6d6	Error: Not allowed by CORS
+20250708	16:37:48	c53bac92-9e0a-4ad6-9dc0-6085c164589c	ReferenceError: sendFile is not defined

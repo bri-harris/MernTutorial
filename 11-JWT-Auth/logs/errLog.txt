@@ -1,0 +1,8 @@
+20250708	16:31:20	be0856ad-e9e6-4938-89e1-f84c65ccf6d6	Error: Not allowed by CORS
+20250708	16:37:48	c53bac92-9e0a-4ad6-9dc0-6085c164589c	ReferenceError: sendFile is not defined
+20250709	13:54:43	c0210f30-1914-4645-bf9a-acb131b6400d	Error: ENOENT: no such file or directory, stat 'C:\Users\briha\code\mernTutorial\08-Routing\views\subdir\test.html'
+20250709	15:49:03	1846f34e-0d68-4219-9d85-82f24d4e6a9d	TypeError: Cannot read properties of undefined (reading 'firstname')
+20250709	15:49:43	59dcac6f-9401-4eda-95b5-1ad75138440b	TypeError: req.json is not a function
+20250709	15:50:07	443649ba-f2a4-4633-ac65-4c4c92f53a6b	TypeError: req.json is not a function
+20250710	12:25:55	646e2d9c-9e7a-4757-9d78-05326ed3abb5	TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+20250710	15:01:46	e2a377ff-722a-4fbe-b844-b449ce47db07	ReferenceError: sendStatus is not defined

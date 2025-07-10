@@ -1,0 +1,19 @@
+install express from the directory
+npm i express
+
+We'll focus on its routing capabilities.
+Express JS is a minimalist Node.js web app framework for web & mobile apps.
+HTTP Utility methods & middleware makes creating APIs easy.
+
+https://expressjs.com/en/starter/basic-routing.html
+Routing refers to determining how an app responds to a client request to a particular endpoint
+aka URI(path) & a specific HTTP request method such as GET or POST.
+Each route can have 1 or more handler function, which are executed when the route is matched.
+
+Route definitions take the following structure:
+  app.METHOD(PATH, HANDLER)
+s.t. 
+  app: an instance of express
+  METHOD: an HTTP request method in lowercase
+  PATH: a path on the server
+  HANDLER: the function executed when the route is match
